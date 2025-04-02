@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+log/
+logs/
+
+# Build and dist directories
+dist/
+build/
+
+# Test coverage
+coverage/
+
+# npm and yarn logs
+npm-debug.log*
+yarn-error.log*
+
+# Editor config
+.vscode/
+.idea/
+.sublime/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Database files (SQLite example)
+*.db
